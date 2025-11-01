@@ -1,25 +1,28 @@
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"
-       alt="Woman coding" width="320"
-       style="margin-right: 30px; border-radius: 10px;" />
-  <div>
+<h1 align="center">Hi 👋, I'm Diya Menghani</h1>
+<h3 align="center">A Computer Science and AI student exploring Data Science, AI, and Machine Learning.</h3>
 
-<h3>Hi 👋, I'm Diya Menghani</h3>
-<h4>A Computer Science and AI student exploring Data Science, AI and Machine Learning.</h4>
+<br>
 
-<ul>
-  <li>🔭 I’m currently working on <b>Debug & Learn</b> – an AI-powered Code Explainer, Debugger and Tutor</li>
-  <li>🌱 I’m currently learning <b>Data Engineering, Machine Learning and Backend Development</b></li>
-  <li>🤝 I’m looking to collaborate on <b>AI, Data Science, and Machine Learning Projects</b></li>
-  <li>👩‍💻 All of my projects are available at <a href="https://github.com/diya-menghani" target="_blank">My GitHub Repositories</a></li>
-  <li>💬 Ask me about <b>Python, Data Analytics, or Data Science</b></li>
-  <li>📫 How to reach me <a href="mailto:diyamenghani00@gmail.com">diyamenghani00@gmail.com</a></li>
-  <li>⚡ Fact: "The most personal is the most creative." - Martin Scorsese</li>
-</ul>
-
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+  
+  <div style="flex: 1;">
+    <ul>
+      <li>🔭 I’m currently working on <b>Debug & Learn</b> – an AI-powered Code Explainer, Debugger and Tutor</li>
+      <li>🌱 I’m currently learning <b>Data Engineering, Machine Learning, and Backend Development</b></li>
+      <li>🤝 I’m looking to collaborate on <b>AI, Data Science, and Machine Learning Projects</b></li>
+      <li>👩‍💻 All of my projects are available at <a href="https://github.com/diya-menghani" target="_blank">My GitHub Repositories</a></li>
+      <li>💬 Ask me about <b>Python, Data Analytics, or Data Science</b></li>
+      <li>📫 How to reach me: <a href="mailto:diyamenghani00@gmail.com">diyamenghani00@gmail.com</a></li>
+      <li>⚡ Fact: <i>"The most personal is the most creative."</i> - Martin Scorsese</li>
+    </ul>
   </div>
+
+  <div style="flex: 0 0 350px;">
+    <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" 
+         alt="Coding woman" width="350" style="border-radius: 10px;"/>
+  </div>
+
 </div>
----
 
 ### 🌐 Connect with me
 <p align="left">
