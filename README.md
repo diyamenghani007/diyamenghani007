@@ -2,9 +2,10 @@
 <h3 align="center"> A Computer Science and AI student exploring Data Science, AI and Machine Learning.</h3>
 
 <p align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDY4MXVwbGYyd3hyM3g0Y2tzZzNhOHFtd3E4bnZ3b3lzbThwaXhvNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XbJ7mU8yYnxP2/giphy.gif" 
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" 
        alt="Woman coding" width="350" align="left" style="margin-right: 25px; border-radius: 10px;" />
 </p>
+
 
 
 - 🔭 I’m currently working on **Debug & Learn – an AI-powered Code Explainer, Debugger and Tutor**
