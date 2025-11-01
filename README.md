@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diya Menghani</h1>
 <h3 align="center"> A Computer Science and AI student exploring Data Science, AI and Machine Learning.</h3>
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding animation" width="400"/>
-</p>
-
+  <img align="center" alt="coding woman" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczl2bDN2aDk3cXNyM3Zodnhkdm1mc3Jmd2o1eHdpbm42OG90dzZqMiZlczZ2aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mCRJDo24UvJMA/giphy.gif">
 
 - 🔭 I’m currently working on **Debug & Learn – an AI-powered Code Explainer, Debugger and Tutor**
 - 🌱 I’m currently learning **Data Engineering, Machine Learning and Backend Development**
