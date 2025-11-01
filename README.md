@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Diya Menghani</h1>
 <h3 align="center"> A Computer Science and AI student exploring Data Science, AI and Machine Learning.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding animation" width="400"/>
+</p>
+
 
 - 🔭 I’m currently working on **Debug & Learn – an AI-powered Code Explainer, Debugger and Tutor**
 - 🌱 I’m currently learning **Data Engineering, Machine Learning and Backend Development**
@@ -15,12 +18,17 @@
 
 ### 🌐 Connect with me
 <p align="left">
-<a href="[https://www.linkedin.com/in/diyamenghani007/](https://www.linkedin.com/in/diya-menghani-ab409031a/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" /></a>
-  <a href="[https://www.instagram.com/diyamenghani007/](https://www.instagram.com/diya_menghani?igsh=MWNnbG14MTA5ZGl2Mg%3D%3D&utm_source=qr)" target="_blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" height="40" width="40" />
-</a>
-  <a href="mailto:diyamenghani00@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/diya-menghani-ab409031a/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" style="margin-right:15px;" />
+  </a>
+  <a href="https://www.instagram.com/diya_menghani?igsh=MWNnbG14MTA5ZGl2Mg%3D%3D&utm_source=qr" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" height="40" width="40" style="margin-right:15px;" />
+  </a>
+  <a href="mailto:diyamenghani00@gmail.com" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="40" width="40" />
+  </a>
 </p>
+
 
 ---
 
