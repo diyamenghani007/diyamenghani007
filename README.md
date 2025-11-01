@@ -1,29 +1,18 @@
 <h1 align="center">Hi 👋, I'm Diya Menghani</h1>
-<h3 align="center">A Computer Science and AI student exploring Data Science, AI, and Machine Learning.</h3>
+<h3 align="center">A Computer Science and AI student exploring Data Science, AI, and Machine Learning</h3>
 
-<br>
+<p align="center">
+  <img align="right" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Coding animation" width="300">
+</p>
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
+- 🔭 I’m currently working on **Debug & Learn** – an AI-powered Code Explainer, Debugger and Tutor  
+- 🌱 I’m currently learning **Data Engineering, Machine Learning, and Backend Development**  
+- 🤝 I’m looking to collaborate on **AI, Data Science, and Machine Learning Projects**  
+- 👩‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/diya-menghani)  
+- 💬 Ask me about **Python, Data Analytics, or Data Science**  
+- 📫 How to reach me: [diyamenghani00@gmail.com](mailto:diyamenghani00@gmail.com)  
+- ⚡ Fun fact: *"The most personal is the most creative."* — Martin Scorsese  
 
-      <ul>
-        <li>🔭 I’m currently working on <b>Debug & Learn</b> – an AI-powered Code Explainer, Debugger and Tutor</li>
-        <li>🌱 I’m currently learning <b>Data Engineering, Machine Learning, and Backend Development</b></li>
-        <li>🤝 I’m looking to collaborate on <b>AI, Data Science, and Machine Learning Projects</b></li>
-        <li>👩‍💻 All of my projects are available at <a href="https://github.com/diya-menghani" target="_blank">My GitHub Repositories</a></li>
-        <li>💬 Ask me about <b>Python, Data Analytics, or Data Science</b></li>
-        <li>📫 How to reach me: <a href="mailto:diyamenghani00@gmail.com">diyamenghani00@gmail.com</a></li>
-        <li>⚡ Fun fact: <i>"The most personal is the most creative."</i> - Martin Scorsese</li>
-      </ul>
-
-    </td>
-    <td align="center" width="40%">
-      <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" 
-           alt="Coding woman" width="350" style="border-radius:10px;">
-    </td>
-  </tr>
-</table>
 
 
 ### 🌐 Connect with me
