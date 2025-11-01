@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diya Menghani</h1>
-<h3 align="center">🚀 A passionate Computer Science and AI student exploring Data Science, Machine Learning and AI</h3>
+<h3 align="center"> A Computer Science and AI student exploring Data Science, AI and Machine Learning.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -16,8 +16,10 @@
 ### 🌐 Connect with me
 <p align="left">
 <a href="[https://www.linkedin.com/in/diyamenghani007/](https://www.linkedin.com/in/diya-menghani-ab409031a/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" /></a>
-<a href="[https://www.instagram.com/diyamenghani007/](https://www.instagram.com/diya_menghani?igsh=MWNnbG14MTA5ZGl2Mg%3D%3D&utm_source=qr)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" height="40" width="40" /></a>
-<a href="mailto:diyamenghani00@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="40" width="40" /></a>
+  <a href="[https://www.instagram.com/diyamenghani007/](https://www.instagram.com/diya_menghani?igsh=MWNnbG14MTA5ZGl2Mg%3D%3D&utm_source=qr)" target="_blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" height="40" width="40" />
+</a>
+  <a href="mailto:diyamenghani00@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="40" width="40" /></a>
 </p>
 
 ---
