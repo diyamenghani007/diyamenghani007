@@ -52,8 +52,9 @@
 </p>
 
 ---
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <i>“The most personal is the most creative.”</i><br/>
+  <b>— Martin Scorsese</b>
 </p>
+
 
